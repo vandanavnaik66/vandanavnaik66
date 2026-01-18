@@ -1,7 +1,7 @@
-<div>
+<div style="display:flex">
   <div>
     <h1 align="center">Hi 👋, I'm Vandana Naik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+   <h3 align="center">A passionate frontend developer from India</h3>
   </div>
   <p align="left"> <img src="https://surl.lu/nnlbom" alt="vandananaik" width="200" height="200"/> </p>
 </div>
