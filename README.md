@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vandana Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanlal02&label=Profile%20views&color=0e75b6&style=flat" alt="roshanlal02" /> </p>
+<p align="left"> <img src="https://surl.lu/nnlbom" alt="roshanlal02" /> </p>
 
-- 🔭 I’m currently working on **a MERN stack project for students and instructors to purchase and list courses respectively**
-
-- 🌱 I’m currently learning **NextJs and MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I’m looking for help in **finding new opportunities**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://roshanlal-portfolio.vercel.app/)
 
-- 📫 How to reach me **roshanlald02@gmail.com**
+- 📫 How to reach me **vandanavnaik66@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KNzwPpMRtNLYLih97_EVw1pE5rmXbyoX/view?usp=sharing)
 
-- ⚡ Fun fact **I'm also interested in design and art 🎨**
+- ⚡ I'm also interested in yoga, reading books, walking, listening music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
