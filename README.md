@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vandana Naik </h1>
    <h3 align="center">A passionate frontend developer from India</h3>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanlal02&label=Profile%20views&color=0e75b6&style=flat" alt="roshanlal02" /> </p>   
 
-
-   
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I’m looking for help in **finding new opportunities**
